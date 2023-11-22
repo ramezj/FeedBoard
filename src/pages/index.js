@@ -11,9 +11,9 @@ export default function Home() {
     <div className='bg-black h-screen'>
     <Navigation session={session}/>
     <center>
-    <div className='w-3/4'>
+    <div className='w-1/2'>
       <br />
-      <h1 className='text-white text-5xl font-bold'>Centralized feedback board for Decentralized feedback</h1>
+      <h1 className='text-white text-6xl font-bold'>Centralized feedback board for Decentralized feedback</h1>
     </div>
     </center>
     </div>
